@@ -1,5 +1,5 @@
-import pip
-pip.main(['install', 'groq', 'streamlit_markmap'])
+# import pip
+# pip.main(['install', 'groq', 'streamlit_markmap'])
 
 import streamlit as st
 from groq import Groq
