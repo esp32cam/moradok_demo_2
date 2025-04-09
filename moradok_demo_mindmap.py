@@ -87,7 +87,7 @@ if submitted and input_text:
                 markmap(markdown_output, 
                         height=500,
                         config={
-                            "color_theme": "light",
+                            
                             "background": "#ffffff"
                         })
                 
